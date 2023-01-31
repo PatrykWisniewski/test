@@ -1,0 +1,4 @@
+System.add.("Logowanie Konto Zwykle")
+	("Zaloguj Zwykle")
+	('Zaloguj Nazwa")
+	("Zaloguj Haslo")
