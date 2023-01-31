@@ -2,3 +2,8 @@ System.add.("Logowanie Konto Zwykle")
 	("Zaloguj Zwykle")
 	('Zaloguj Nazwa")
 	("Zaloguj Haslo")
+
+System.add.("Logowanie Konto Microsoft")
+	("Zaloguj Microsoft")
+	('Zaloguj Nazwa")
+	("Zaloguj Haslo")
