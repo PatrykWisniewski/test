@@ -7,3 +7,9 @@ System.add.("Logowanie Konto Google")
 	("Zaloguj Google")
 	('Zaloguj Nazwa")
 	("Zaloguj Haslo")
+
+System.add.("Logowanie Konto Microsoft")
+	("Zaloguj Microsoft")
+	('Zaloguj Nazwa")
+	("Zaloguj Haslo")
+
