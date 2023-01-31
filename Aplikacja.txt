@@ -13,3 +13,7 @@ System.add.("Logowanie Konto Microsoft")
 	('Zaloguj Nazwa")
 	("Zaloguj Haslo")
 
+System.add.("Logowanie Konto Facebook")
+	("Zaloguj Microsoft")
+	('Zaloguj Nazwa")
+	("Zaloguj Haslo")
